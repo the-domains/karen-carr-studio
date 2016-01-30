@@ -1,0 +1,28 @@
+name: Karen Carr Studio
+favicon: null
+layout_spectrum: 0.42790129338391125
+typography_spectrum: 0.9642953253351152
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.671478898730129
+  lightness: 0.19132574810646474
+  saturation: 0.08068854687735438
+  rhythmicContrast: 0.47388866264373064
+purpose: []
